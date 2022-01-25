@@ -1,0 +1,27 @@
+{
+  "name": "jsencrypt-miniprogram",
+  "version": "1.0.0",
+  "description": "jsencrypt.js for mini program",
+  "main": "jsencrypt-mp.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "types": "jsencrypt-mp.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jude214/jsencrypt-miniprogram.git"
+  },
+  "keywords": [
+    "jsencrypt",
+    "miniprogram"
+  ],
+  "author": "Jude",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jude214/jsencrypt-miniprogram/issues"
+  },
+  "homepage": "https://github.com/Jude214/jsencrypt-miniprogram#readme",
+  "devDependencies": {
+    "rollup-plugin-uglify": "^6.0.4"
+  }
+}
