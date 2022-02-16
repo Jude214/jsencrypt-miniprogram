@@ -1,6 +1,6 @@
 {
   "name": "jsencrypt-miniprogram",
-  "version": "1.0.0",
+  "version": "0.2.0",
   "description": "jsencrypt.js for mini program",
   "main": "jsencrypt-mp.js",
   "scripts": {
