@@ -3,7 +3,7 @@ import { uglify } from "rollup-plugin-uglify"
 const pkg = require('./package.json')
 
 export default {
-  input: 'src/main.js',
+  input: './index.ts',
   output: {
     file: pkg.main,
     format: 'cjs',
